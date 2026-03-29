@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-kishankumar&label=Profile%20views&color=0e75b6&style=flat" alt="er-kishankumar" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱Currently, I work as a Senior Developer, Designer & Trainer at  **Rank Up Technologies**
 
 - 📫 How to reach me **djkishanmau.in@gmail.com**
 
